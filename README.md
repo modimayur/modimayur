@@ -23,8 +23,10 @@ I'm a **Shopify Front-End Developer** and **Web Designer** based in **Rajkot, Gu
 I'm passionate about **delivering seamless, high-quality eCommerce experiences** that drive user engagement and conversions. I enjoy working on **challenging Shopify projects**, exploring new front-end technologies, and collaborating with teams to build something great.  
 
 ### **📫 Let's Connect!**  
-📧 **Email: [modimayur@rocketmail.com](mailto:modimayur@rocketmail.com)  **
+📧 **Email: [modimayur@rocketmail.com](mailto:modimayur@rocketmail.com)**
+
 🔗 **<a href="https://docs.google.com/document/d/1uGJlYZ0zW_cr9O6rYv8C7nfuYSbb4LA2RcNjqYD-6Qg/edit?usp=drive_link" target="_blank">View My Portfolio</a>**
+
 💼 **LinkedIn: <a href="Your LinkedIn Profile URL" target="_blank">Modi Mayur</a>**
 
 
