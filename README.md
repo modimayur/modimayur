@@ -25,9 +25,9 @@ I'm passionate about **delivering seamless, high-quality eCommerce experiences**
 ### **📫 Let's Connect!**  
 📧 **Email: [modimayur@rocketmail.com](mailto:modimayur@rocketmail.com)**
 
-🔗 **<a href="https://docs.google.com/document/d/1uGJlYZ0zW_cr9O6rYv8C7nfuYSbb4LA2RcNjqYD-6Qg/edit?usp=drive_link" target="_blank">View My Portfolio</a>**
+🔗 **LinkedIn:<a href="https://docs.google.com/document/d/1uGJlYZ0zW_cr9O6rYv8C7nfuYSbb4LA2RcNjqYD-6Qg/edit?usp=drive_link" target="_blank">View My Portfolio</a>**
 
-💼 **LinkedIn: <a href="Your LinkedIn Profile URL" target="_blank">Modi Mayur</a>**
+💼 **Portfolio: <a href="Your LinkedIn Profile URL" target="_blank">Modi Mayur</a>**
 
 
 Looking forward to contributing to open-source projects and collaborating on exciting Shopify and web development projects! 🚀
